@@ -1,6 +1,6 @@
 # TIC-TAC-TOE-GUI
 
-This is the GUI Version of the TIC-TAC-TOE Game built using SWING in JAVA.
+This is the **GUI** Version of the **TIC-TAC-TOE** Game built using **SWING** in JAVA.
 
 # THE BOARD LOOKS LIKE:
 
